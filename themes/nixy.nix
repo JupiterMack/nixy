@@ -83,7 +83,7 @@
 
     polarity = "dark";
     image = pkgs.fetchurl {
-      url = "https://raw.githubusercontent.com/anotherhadi/awesome-wallpapers/refs/heads/main/app/static/wallpapers/black-and-white-forest_minimalist_black-and-white.png";
+      url = "https://raw.githubusercontent.com/anotherhadi/awesome-wallpapers/refs/heads/main/app/static/wallpapers/it-is-some-waves_dark.png";
       sha256 = "sha256-MOlLRQonZ6UAaSJlysjL8snxnMrSFH9VOLrjXaU82Kw=";
     };
   };
