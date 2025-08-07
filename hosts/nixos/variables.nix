@@ -18,10 +18,10 @@
 
     keyboardLayout = "us";
 
-    location = "Paris";
-    timeZone = "Europe/Paris";
+    location = "Amsterdam";
+    timeZone = "Europe/Amsterdam";
     defaultLocale = "en_US.UTF-8";
-    extraLocale = "fr_FR.UTF-8";
+    extraLocale = "nl_NL.UTF-8";
 
     git = {
       username = "JupiterMack";

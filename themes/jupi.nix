@@ -83,8 +83,8 @@
 
     polarity = "dark";
     image = pkgs.fetchurl {
-      url = "https://raw.githubusercontent.com/anotherhadi/awesome-wallpapers/main/app/static/wallpapers/it-is-some-waves_dark.png";
-      sha256 = "1hx5srjm7wxlik58m2wpaz2fkkjiymps025j927rd4m0ixgbqd2x";
+      url = "https://raw.githubusercontent.com/anotherhadi/awesome-wallpapers/refs/heads/main/app/static/wallpapers/topology_dark.png";
+      sha256 = "0ak0z4l1liikv61k20v8hg22dzdwy0fllmcyypdxb5ajr71c22cx";
     };
   };
 }
